@@ -2,9 +2,9 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Album{
-    final private String name;
-    final private int year;
-    final private List<Song> songs = new ArrayList<>();
+    final public String name;
+    final public int year;
+    final public List<Song> songs = new ArrayList<>();
 
     Album(String name, int year){
         this.name = name;

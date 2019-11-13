@@ -2,9 +2,9 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Artist{
-    final private String name;
-    final private String genre;
-    final private List<Album> albums = new ArrayList<>();
+    final public String name;
+    final public String genre;
+    final public List<Album> albums = new ArrayList<>();
 
     Artist(String name, String genre){
         this.name = name;
