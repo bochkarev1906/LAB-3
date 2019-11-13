@@ -15,9 +15,9 @@ public class Artist{
         this.albums.add(album);
     }
 
-    public String getArtist(){
+  /*  public String getArtist(){
         return this.name + " " + this.albums.get(0).getName() + " " + this.albums.get(0).getSong(0).getName();
-    }
+    }*/
 
     String getName() {
         return this.name;
