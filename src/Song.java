@@ -5,6 +5,7 @@ public class Song{
         this.name = name;
     }
 
+//add functions
     String getName() {
         return this.name;
     }
