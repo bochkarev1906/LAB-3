@@ -56,7 +56,7 @@ public class Catalog {
     }
 
 
-    /*void get_catalog(){
+    void get_catalog(){
         for (int i = 0; i < artists.size(); i++){
             System.out.println(artists.get(i).name);
             for (int j = 0; j < artists.get(i).albums.size(); j++) {
@@ -74,5 +74,5 @@ public class Catalog {
             }
             System.out.println("");
         }
-    }*/
+    }
 }
