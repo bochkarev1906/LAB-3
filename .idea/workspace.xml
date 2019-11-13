@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5039e897-60ed-45b7-9184-fecb39246d91" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Artist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Artist.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -50,7 +50,7 @@
     <session id="-635814001">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.36" value="1" />
           <entry key="project.opened" value="2" />
@@ -73,18 +73,18 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Artist.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+            <state relative-caret-position="220">
+              <caret line="17" column="2" lean-forward="true" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#537#538#0" expanded="true" />
-                <element signature="e#569#570#0" expanded="true" />
-                <element signature="e#594#595#0" expanded="true" />
-                <element signature="e#627#628#0" expanded="true" />
-                <element signature="e#656#657#0" expanded="true" />
-                <element signature="e#692#693#0" expanded="true" />
-                <element signature="e#720#721#0" expanded="true" />
-                <element signature="e#756#757#0" expanded="true" />
+                <element signature="e#533#534#0" expanded="true" />
+                <element signature="e#565#566#0" expanded="true" />
+                <element signature="e#590#591#0" expanded="true" />
+                <element signature="e#623#624#0" expanded="true" />
+                <element signature="e#652#653#0" expanded="true" />
+                <element signature="e#688#689#0" expanded="true" />
+                <element signature="e#716#717#0" expanded="true" />
+                <element signature="e#752#753#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -273,7 +273,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="840" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
@@ -375,18 +374,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Artist.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+        <state relative-caret-position="220">
+          <caret line="17" column="2" lean-forward="true" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#537#538#0" expanded="true" />
-            <element signature="e#569#570#0" expanded="true" />
-            <element signature="e#594#595#0" expanded="true" />
-            <element signature="e#627#628#0" expanded="true" />
-            <element signature="e#656#657#0" expanded="true" />
-            <element signature="e#692#693#0" expanded="true" />
-            <element signature="e#720#721#0" expanded="true" />
-            <element signature="e#756#757#0" expanded="true" />
+            <element signature="e#533#534#0" expanded="true" />
+            <element signature="e#565#566#0" expanded="true" />
+            <element signature="e#590#591#0" expanded="true" />
+            <element signature="e#623#624#0" expanded="true" />
+            <element signature="e#652#653#0" expanded="true" />
+            <element signature="e#688#689#0" expanded="true" />
+            <element signature="e#716#717#0" expanded="true" />
+            <element signature="e#752#753#0" expanded="true" />
           </folding>
         </state>
       </provider>
