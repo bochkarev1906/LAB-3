@@ -25,7 +25,7 @@ public class Catalog {
         return str;
     }
 
-    /*String search_album_by_genre(String genre) {
+    String search_album_by_genre(String genre) {
         String str = "";
         for (int i = 0; i < this.artists.size(); i++) {
             if (genre.equals(artists.get(i).getGenre())) {
@@ -37,7 +37,7 @@ public class Catalog {
             }
         }
         return str;
-    }*/
+    }
 
     String search_song_by_year(int year) {
         String str = "";
